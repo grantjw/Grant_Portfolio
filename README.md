@@ -1,6 +1,6 @@
 # Grant_Portfolio
 
-# Project 1: Speech Recognition for Advanced Vocabulary (In Progress)
+# Project 1: Speech Recognition for Advanced Vocabulary (In progress)
 * In progress of building a speech recognizer focused on recognizing advanced vocabulary from YouTube videos with Python.
 
 # Project 2: Examining the racialization of American public opinion on China utilizing text analysis 
