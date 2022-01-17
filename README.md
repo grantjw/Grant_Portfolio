@@ -3,7 +3,7 @@
 # Project 1: Speech Recognition for Advanced Vocabulary (In progress)
 * In progress of building a speech recognizer focused on recognizing advanced vocabulary from YouTube videos with Python.
 
-# Project 2: Examining the racialization of American public opinion utilizing text analysis 
+# [Project 2: Examining the racialization of American public opinion utilizing text analysis](https://github.com/grantjw/text_analysis_proj2) 
 * Examined the racialization of American public opinion on China by wrangling 30GB of 24 different broadcast television political advertisement datasets aired on the 210 media markets.
 * Converted 30,000 campaign video data to raw text using IBM’s Speech-To-Text API with Python. 
 * Conducted descriptive statistics, visualization, bivariate regression, Structural Topic Modeling, and Sentiment Analysis utilizing R and Tableau.
