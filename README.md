@@ -9,7 +9,7 @@
 * Conducted descriptive statistics, visualization, bivariate regression, Structural Topic Modeling, and Sentiment Analysis utilizing R and Tableau.
 * Found sentiment discrepancies between China and non-China related advertisements for both Democrats and Republicans over multiple types of elections.
 
-# Project 3: Predicting Recidivism
+# [Project 3: Predicting Recidivism](https://github.com/grantjw/predict_recidivism_proj3)
 * Predicted which criminal defendants are likely to recidivate utilizing Elastic Net, Random Forest, and Gradient Boosted Tree.
 * Deployed Random Forest and achieved the highest predictive performance in class with 72% precision..
 
