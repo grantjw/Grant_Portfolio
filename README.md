@@ -13,7 +13,7 @@
 * Predicted which criminal defendants are likely to recidivate utilizing Elastic Net, Random Forest, and Gradient Boosted Tree.
 * Deployed Random Forest and achieved the highest predictive performance in class with 72% precision..
 
-# Project 4: Analyzing Political Text Data
+# [Project 4: Analyzing Political Text Data](https://github.com/grantjw/pol_text_proj4)
 * Analyzed Hilary Clinton’s 8000 emails with Principal Components Analysis, Structural Topic Modeling, and Sentiment Analysis using R.
 * Identified 3 clusters of emails to reveal politically sensitive issues related to Hillary Clinton such as discussions on Benghazi.
 
