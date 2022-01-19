@@ -16,4 +16,4 @@
 # [Project 4: Analyzing Political Text Data](https://github.com/grantjw/pol_text_proj4)
 * Analyzed Hilary Clinton’s 8000 emails with Principal Components Analysis, Structural Topic Modeling, and Sentiment Analysis using R.
 * Identified 3 clusters of emails to reveal politically sensitive issues related to Hillary Clinton such as discussions on Benghazi.
-
+* More information on Clinton email data is [here](https://www.kaggle.com/kaggle/hillary-clinton-emails). 
