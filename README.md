@@ -14,9 +14,9 @@
 * Analyzed Hilary Clinton’s 8000 emails with Principal Components Analysis, Structural Topic Modeling, and Sentiment Analysis using R.
 * Identified 3 clusters of emails to reveal politically sensitive issues related to Hillary Clinton such as discussions on Benghazi.
 
-# [Project 4: Laptop Price Prediction]
+# Project 4: Laptop Price Prediction
 * Utilized supervised machine learning models to predict laptop prices.
 * Wrangled and cleansed data that was one of the most messiest data I have seen so far.
 
-# [Project 5: Mushroom Edibility Prediction]
+# Project 5: Mushroom Edibility Prediction
 * Utilized dimensionality reduction (PCA/K-Means/Feature Importance) methods to decrease features by 91% as dataset contained very high number of categorical features and therefore resolved "curse of dimensionality" issue.
